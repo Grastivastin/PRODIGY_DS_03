@@ -1,4 +1,4 @@
-# Task 03 – Decision Tree Classifier
+#  Decision Tree Classifier
 
 ## Objective
 To build and evaluate a Decision Tree classification model that predicts
